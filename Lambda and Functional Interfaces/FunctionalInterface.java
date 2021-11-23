@@ -1,12 +1,4 @@
-interface Ridable{
-	public String move();
-}
-
-interface Stoppable{
-	public String stop();
-}
-
-class Vehicle implements Ridable,Stoppable{
+class Vehicle implements Movable,Stoppable{
 
 	@Override
 	public String move() {
