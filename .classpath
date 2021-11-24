@@ -9,5 +9,6 @@
 	<classpathentry kind="src" path="Lambda and Functional Interfaces"/>
 	<classpathentry kind="src" path="StreamsAPI"/>
 	<classpathentry kind="src" path="Annotations"/>
+	<classpathentry kind="src" path="Collections"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
